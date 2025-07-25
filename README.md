@@ -5,7 +5,7 @@ A modern take on the classic Snake game built using Python's `tkinter`. Features
 ---
 
 ## 🎮 Features
-
+ 
 - Classic Snake gameplay using arrow keys
 - High score saved locally (`highscore.txt`)
 - Speed increases every 5 points

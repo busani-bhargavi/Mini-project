@@ -1,23 +1,23 @@
-# 🐍 Snake Game
+# 🐍 Snake Game (Tkinter Edition)
 
-A simple and fun Snake game built using Python and Pygame. Guide the snake to eat food, grow longer, and avoid hitting the walls or itself.
+A modern take on the classic Snake game built using Python's `tkinter`. Features a growing snake, increasing difficulty, and persistent high score tracking.
 
 ---
 
 ## 🎮 Features
 
-- Classic Snake gameplay
-- Increasing difficulty as the snake grows
-- Score display
-- Smooth controls with arrow keys
+- Classic Snake gameplay using arrow keys
+- High score saved locally (`highscore.txt`)
+- Speed increases every 5 points
+- Start button to reset and play again
+- Clean and simple GUI using `tkinter`
 
 ---
 
-## 🖥️ Requirements
+## 🖥 Requirements
 
-- Python 3.x
-- [Pygame](https://www.pygame.org/)
+- Python 3.x (tested with 3.8+)
+- No external dependencies
 
-Install Pygame with:
-```bash
-pip install pygame
+
+
